@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20Hello&fontSize=70)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
+**위에 final vocabulary 넣기**
 
-**final vocabulary 넣기**
+# 🚀 Skills
 
 - 👋 Hi, I’m @Pasak22
 - 👀 I’m interested in ...
@@ -15,6 +16,6 @@ Pasak22/Pasak22 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasak22&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasak22)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=pasak2)](https://solved.ac/pasak2)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pasak2)](https://solved.ac/pasak2)
